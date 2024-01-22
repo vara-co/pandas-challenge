@@ -30,7 +30,9 @@ Content of the repository
 - Resources Directory:
     - schools_complete.csv file
     - students_complete.csv file
-- PyCitySchools_LMVS.ipynb
+- PyCitySchools_LMVS.ipynb        <-- Jupyter Notebook file. 
+- PyCitySchools_analysisLMVS.docx <-- Written analysis formated in Microsoft Word. To view you might have to download the file.
+- PyCitySchools_analysisLMVS.txt  <-- Written analysis formated in Text. This version allows you to view the results directly on GitHub
 
 ----------------------------------
 Instructions for PyCitySchools
