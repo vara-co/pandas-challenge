@@ -1,0 +1,36 @@
+PyCitySchools
+Written Analysis
+
+By Laura Vara
+Denver University
+Data Analysis and Visualization Bootcamp
+Module 4 Challenge
+January 22, 2024
+
+Summary Analysis:
+District Summary:
+The district comprises fifteen schools with a total student population of 39,170.
+The aggregate budget for these schools amounts to $24,649,428.00.
+The average math score across these schools is 78.98, boasting a passing percentage of 74.98%.
+In the realm of reading, the average score is 81.87, with a commendable passing percentage of 85.80%.
+The overall passing rate for both math and reading stands at 65.17%.
+
+School Summary:
+A comprehensive assessment of school performance was conducted, considering factors such as size, spending, and school type.
+Charter schools emerged as the top performers, excelling in both math and reading, while district schools found themselves at the lower end of the performance range.
+The analysis underscored the impact of school size on academic outcomes, with smaller schools demonstrating higher academic performance.
+
+Scores by School Spending:
+An in-depth examination of spending ranges per student revealed that increased expenditure does not necessarily correlate with higher academic performance.
+Notably, the highest-performing schools were those with the least spending per student, while those with higher spending were positioned on the opposite end of the spectrum.
+
+Scores by School Size:
+School performance exhibited variance based on size, with small and medium-sized schools outperforming their larger counterparts in academic achievement.
+
+Scores by School Type:
+Charter schools consistently showcased superior academic achievements compared to district schools.
+
+Conclusions:
+1. The analysis indicates that higher spending per student does not guarantee improved academic performance. Schools with lower budgets per student often outperformed those with higher per capita spending. It is recommended to explore factors beyond financial resources to enhance academic performance. Understanding the practices and policies of high-performing schools, regardless of budget, can provide valuable insights.
+
+2. The data underscores significant differences between charter and district schools, emphasizing the relevance of smaller student populations to higher academic performance. Both small and medium-sized schools exhibited similar average grades, unlike their larger counterparts.
