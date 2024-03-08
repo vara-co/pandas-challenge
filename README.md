@@ -7,6 +7,9 @@ PANDAS CHALLENGE
 --------------------------------
 by Laura Vara
 --------------------------------
+![PySchools](https://github.com/vara-co/pandas-challenge/assets/152572519/a3f2b2d8-66f7-4b50-adfc-3337c6a2c2e7)
+
+
 Note: It is important that if you are going to use this code, the csv files
 are placed in a directory called Resources, in the same directory as your
 main Jupyter Notebook file. Otherwise the code with the path were you intend to read 
